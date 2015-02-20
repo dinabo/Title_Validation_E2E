@@ -1,6 +1,6 @@
 @ECHO OFF
 ::========================================
-SET GITHUB_ACCOUNT=dilbobokol
+SET GITHUB_ACCOUNT=dinabo
 SET WS_DIR=Workspace_mvn3
 SET REPO_NAME=Title_Validation_E2E
 SET APP_VERSION=1.1
